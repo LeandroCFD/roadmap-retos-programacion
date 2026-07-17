@@ -12,4 +12,9 @@ pubspec.yaml
 pubspec.lock
 .venv
 *.class
-*.gradle 
+*.gradle
+*.exe
+.metadata/
+tempCodeRunnerFile.js
+tempCodeRunnerFile.py
+node_modules/
